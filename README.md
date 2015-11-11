@@ -1,2 +1,0 @@
-# algorithms
-Algorithms, Part I
